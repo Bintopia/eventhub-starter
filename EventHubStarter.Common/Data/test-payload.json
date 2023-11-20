@@ -1,0 +1,32 @@
+{
+  "schema":  "production",
+  "table": "product",
+  "action": "UPDATE",
+  "data": {
+    "productid": 1,
+    "name": "Adjustable Race",
+    "productnumber": "AR-5381",
+    "makeflag": false,
+    "finishedgoodsflag": false,
+    "color": "Silver",
+    "safetystocklevel": 1000,
+    "reorderpoint": 750,
+    "standardcost": 0,
+    "listprice": 0,
+    "size": null,
+    "sizeunitmeasurecode": null,
+    "weightunitmeasurecode": null,
+    "weight": null,
+    "daystomanufacture": 0,
+    "productline": null,
+    "class": null,
+    "style": null,
+    "productsubcategoryid": null,
+    "productmodelid": null,
+    "sellstartdate": "2008-04-30T00:00:00",
+    "sellenddate": null,
+    "discontinueddate": null,
+    "rowguid": "694215b7-08f7-4c0d-acb1-d734ba44c0c8",
+    "modifieddate": "2014-02-08T10:01:36.827"
+  }
+}
